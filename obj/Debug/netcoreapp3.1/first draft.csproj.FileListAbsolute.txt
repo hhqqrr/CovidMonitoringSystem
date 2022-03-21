@@ -1,0 +1,4 @@
+C:\Users\qiren\Desktop\PRG2\asg\first draft\obj\Debug\netcoreapp3.1\first draft.csprojAssemblyReference.cache
+C:\Users\qiren\Desktop\PRG2\asg\first draft\obj\Debug\netcoreapp3.1\first draft.AssemblyInfoInputs.cache
+C:\Users\qiren\Desktop\PRG2\asg\first draft\obj\Debug\netcoreapp3.1\first draft.AssemblyInfo.cs
+C:\Users\qiren\Desktop\PRG2\asg\first draft\obj\Debug\netcoreapp3.1\first draft.csproj.CoreCompileInputs.cache

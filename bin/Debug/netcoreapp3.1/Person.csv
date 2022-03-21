@@ -1,0 +1,17 @@
+type,name,address,lastLeftCountry,passportNo,nationality,tokenSerial,tokenCollectionLocation,tokenExpiryDate,travelEntryLastCountry,travelEntryMode,travelEntryDate,travelShnEndDate,travelIsPaid,facilityName
+resident,Tom,123 East Road,20/12/2020,,,T12345,Canberra CC,15-Jan-21,Vietnam,Land,12/1/2021 8:00,12/1/2021 8:00,TRUE,
+resident,Sally,234 Changi Link,16/3/2020,,,,,,Vietnam,Land,12/1/2021 8:00,12/1/2021 8:00,FALSE,
+visitor,Terry,,,A1234567E,Malaysian,,,,,,,,,
+resident,Tricia,522 Long Street,2/7/2020,,,,,,,,,,,
+visitor,Simon,,,A2345678F,Australian,,,,,,,,,
+visitor,Alice,,,A3456789G,Chinese,,,,Australia,Air,13/1/2021 8:00,27/1/2021 8:00,FALSE,Yozel
+resident,Dion,842 Bukit Hill,21/10/2020,,,T23456,Bukit CC,28-May-21,,,,,,
+visitor,Timothy,,,A11115555H,American,,,,,,,,,
+resident,William,321 South Road,20/12/2020,,,,,,,,,,,
+resident,James,432 Orchard Link,16/9/2020,,,,,,Germany,Air,5/2/2021 8:00,19/2/2021 8:00,FALSE,Mandarin Orchid
+visitor,Harper,,,A1234567E,Malaysian,,,,,,,,,
+resident,Mason,582 High Street,2/7/2020,,,,,,,,,,,
+visitor,Evelyn,,,A2345678F,Australian,,,,Canada,Air,1/1/2021 8:00,15/1/2021 8:00,FALSE,Small Hostel
+visitor,Ella,,,A3456789G,Chinese,,,,,,,,,
+resident,Jackson,572 Hillview Hill,21/10/2020,,,,,,Indonesia,Sea,1/1/2021 8:00,15/1/2021 8:00,FALSE,Yozel
+visitor,Avery,,,A11115555H,American,,,,,,,,,
